@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.user-info {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.applications i {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}

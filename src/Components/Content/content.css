@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.contents input:focus{
+  outline: none !important;
+  box-shadow: 0 0 10px #719ECE;
+}
